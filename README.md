@@ -1,3 +1,5 @@
+**Pignini Reader is returning soon**
+
 # ipignini-reader
 A JavaScript based reading application for macOS and Windows.
 
