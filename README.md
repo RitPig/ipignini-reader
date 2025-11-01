@@ -1,4 +1,4 @@
-**Pignini Reader is returning soon**
+**iPignini Reader has been discontinued as of November 1st, 2025.n**
 
 # ipignini-reader
 A JavaScript based reading application for macOS and Windows.
